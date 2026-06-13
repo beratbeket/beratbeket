@@ -1,4 +1,4 @@
-## Hello, World! 🚀
+## Sup? 🚀
 
 I am a third-year Computer Engineering student passionate about the intersection of AI and system operations. I have a strong background in implementing custom machine learning algorithms from the ground up and developing scalable solutions. My recent work focuses heavily on hybrid AI architectures (LLM integration) and proactive AIOps monitoring systems, all backed by solid Git/GitHub version control workflows.
 
@@ -6,6 +6,14 @@ I am a third-year Computer Engineering student passionate about the intersection
 - Custom Machine Learning Algorithms
 - LLM Integration
 - Proactive AIOps Architectures
+  ----
+## ⁉️ What's Next
+### Introduction To AI Finishing Project
+- Comparing 5 different ML algorithms with different graphs, creating an confussion matrix and writing a report with the obtained results. Placing the entire application into a GUI.
+### Telegram Alert System feature for my <a href="https://github.com/beratbeket/intellimon"> <b>intellimon</b> </a> project
+### Lots of exercises for pandas and scikit-learn
+       
+     
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.beratbeket@gmail.com) 
